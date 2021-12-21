@@ -3,7 +3,7 @@ Hlavní strana
 
 .. note::
 
-   Na dokumentaci se pracuje. 
+   Na dokumentaci se pracuje.
 
 Contents
 --------
